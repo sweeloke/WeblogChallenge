@@ -14,3 +14,7 @@ The program is written in Scala and executed on Spark at Databricks community ed
 3. Determine unique URL visits per session. To clarify, count a hit to a unique URL only once per session.
 
 4. Find the most engaged users, ie the IPs with the longest session times
+
+Code:
+    The code is loaded in html format, or you can access it at: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4065787460472196/110870947396635/158314600501441/latest.html
+    
